@@ -1,10 +1,11 @@
 /**
  * Adds two numbers
- * @param {number} a
- * @param {number} b
+ * @param {number} num1
+ * @param {number} num2
+ * @returns {Number}
  */
-export function add(a, b) {
-  return a + b;
+export function add(num1, num2) {
+  return num1 + num2;
 }
 
 /**

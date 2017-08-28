@@ -79,7 +79,7 @@
     "karma-webpack": "1.8.0",
     "mocha": "3.2.0",
     "np": "2.10.1",
-    "npm-run-all": "3.1.2",
+    "npm-run-all": "4.1.1",
     "nsp": "2.6.2",
     "nyc": "8.4.0",
     "phantomjs-prebuilt": "2.1.13",

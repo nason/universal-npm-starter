@@ -81,7 +81,7 @@
     "np": "2.10.1",
     "npm-run-all": "3.1.2",
     "nsp": "2.6.2",
-    "nyc": "8.4.0",
+    "nyc": "11.3.0",
     "phantomjs-prebuilt": "2.1.13",
     "rimraf": "2.5.4",
     "rollup": "0.36.4",

@@ -76,7 +76,7 @@
     "karma-phantomjs-launcher": "1.0.2",
     "karma-sauce-launcher": "1.1.0",
     "karma-sourcemap-loader": "0.3.7",
-    "karma-webpack": "1.8.0",
+    "karma-webpack": "2.0.12",
     "mocha": "3.2.0",
     "np": "2.10.1",
     "npm-run-all": "3.1.2",

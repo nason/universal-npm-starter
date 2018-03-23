@@ -62,7 +62,7 @@
     "coveralls": "2.11.15",
     "documentation": "4.0.0-beta15",
     "eslint": "3.9.1",
-    "eslint-friendly-formatter": "2.0.6",
+    "eslint-friendly-formatter": "4.0.0",
     "eslint-import-resolver-node": "0.2.3",
     "eslint-plugin-import": "2.2.0",
     "eslint-plugin-mocha": "4.7.0",

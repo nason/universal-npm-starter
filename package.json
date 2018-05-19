@@ -77,7 +77,7 @@
     "karma-sauce-launcher": "1.1.0",
     "karma-sourcemap-loader": "0.3.7",
     "karma-webpack": "1.8.0",
-    "mocha": "3.2.0",
+    "mocha": "5.2.0",
     "np": "2.10.1",
     "npm-run-all": "3.1.2",
     "nsp": "2.6.2",

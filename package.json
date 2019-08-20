@@ -70,7 +70,7 @@
     "imports-loader": "0.6.5",
     "just-wait": "1.0.9",
     "karma": "1.3.0",
-    "karma-coverage": "1.1.1",
+    "karma-coverage": "2.0.0",
     "karma-mocha": "1.3.0",
     "karma-mocha-reporter": "2.2.1",
     "karma-phantomjs-launcher": "1.0.2",
